@@ -1,3 +1,5 @@
+"""Only last layer is fine-tuned"""
+
 !pip install transformers datasets scikit-learn
 !pip install datasets
 
